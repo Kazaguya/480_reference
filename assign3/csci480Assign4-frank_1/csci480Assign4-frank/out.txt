@@ -1,0 +1,300 @@
+Simulation of CPU Scheduling
+
+
+Process 101 has moved from the Entry Queue to the Ready Queue at time 0
+
+
+Status at time 0
+Active is 0
+Iactive is 0
+Oactive is 0
+Contents of the entry queue
+(Empty)
+Contents of the ready queue
+101
+Contents of the input queue
+(Empty)
+Contents of the output queue
+(Empty)
+
+
+Status at time 25
+Active is 101
+Iactive is 0
+Oactive is 0
+Contents of the entry queue
+(Empty)
+Contents of the ready queue
+101
+Contents of the input queue
+(Empty)
+Contents of the output queue
+(Empty)
+
+
+Status at time 50
+Active is 101
+Iactive is 0
+Oactive is 0
+Contents of the entry queue
+(Empty)
+Contents of the ready queue
+101
+Contents of the input queue
+(Empty)
+Contents of the output queue
+(Empty)
+Input burst detected at time 59
+Remaining input bursts: 7
+
+
+Status at time 75
+Active is 0
+Iactive is 101
+Oactive is 0
+Contents of the entry queue
+(Empty)
+Contents of the ready queue
+(Empty)
+Contents of the input queue
+(Empty)
+Contents of the output queue
+(Empty)
+
+
+Status at time 100
+Active is 0
+Iactive is 101
+Oactive is 0
+Contents of the entry queue
+(Empty)
+Contents of the ready queue
+(Empty)
+Contents of the input queue
+(Empty)
+Contents of the output queue
+(Empty)
+
+
+Status at time 125
+Active is 0
+Iactive is 101
+Oactive is 0
+Contents of the entry queue
+(Empty)
+Contents of the ready queue
+(Empty)
+Contents of the input queue
+(Empty)
+Contents of the output queue
+(Empty)
+
+
+Status at time 150
+Active is 0
+Iactive is 101
+Oactive is 0
+Contents of the entry queue
+(Empty)
+Contents of the ready queue
+(Empty)
+Contents of the input queue
+(Empty)
+Contents of the output queue
+(Empty)
+
+
+Status at time 175
+Active is 0
+Iactive is 101
+Oactive is 0
+Contents of the entry queue
+(Empty)
+Contents of the ready queue
+(Empty)
+Contents of the input queue
+(Empty)
+Contents of the output queue
+(Empty)
+
+
+Status at time 200
+Active is 0
+Iactive is 101
+Oactive is 0
+Contents of the entry queue
+(Empty)
+Contents of the ready queue
+(Empty)
+Contents of the input queue
+(Empty)
+Contents of the output queue
+(Empty)
+
+
+Status at time 225
+Active is 0
+Iactive is 101
+Oactive is 0
+Contents of the entry queue
+(Empty)
+Contents of the ready queue
+(Empty)
+Contents of the input queue
+(Empty)
+Contents of the output queue
+(Empty)
+
+
+Status at time 250
+Active is 0
+Iactive is 101
+Oactive is 0
+Contents of the entry queue
+(Empty)
+Contents of the ready queue
+(Empty)
+Contents of the input queue
+(Empty)
+Contents of the output queue
+(Empty)
+
+
+Status at time 275
+Active is 0
+Iactive is 101
+Oactive is 0
+Contents of the entry queue
+(Empty)
+Contents of the ready queue
+(Empty)
+Contents of the input queue
+(Empty)
+Contents of the output queue
+(Empty)
+
+
+Status at time 300
+Active is 0
+Iactive is 101
+Oactive is 0
+Contents of the entry queue
+(Empty)
+Contents of the ready queue
+(Empty)
+Contents of the input queue
+(Empty)
+Contents of the output queue
+(Empty)
+
+
+Status at time 325
+Active is 0
+Iactive is 101
+Oactive is 0
+Contents of the entry queue
+(Empty)
+Contents of the ready queue
+(Empty)
+Contents of the input queue
+(Empty)
+Contents of the output queue
+(Empty)
+
+
+Status at time 350
+Active is 0
+Iactive is 101
+Oactive is 0
+Contents of the entry queue
+(Empty)
+Contents of the ready queue
+(Empty)
+Contents of the input queue
+(Empty)
+Contents of the output queue
+(Empty)
+
+
+Status at time 375
+Active is 0
+Iactive is 101
+Oactive is 0
+Contents of the entry queue
+(Empty)
+Contents of the ready queue
+(Empty)
+Contents of the input queue
+(Empty)
+Contents of the output queue
+(Empty)
+
+
+Status at time 400
+Active is 0
+Iactive is 101
+Oactive is 0
+Contents of the entry queue
+(Empty)
+Contents of the ready queue
+(Empty)
+Contents of the input queue
+(Empty)
+Contents of the output queue
+(Empty)
+
+
+Status at time 425
+Active is 0
+Iactive is 101
+Oactive is 0
+Contents of the entry queue
+(Empty)
+Contents of the ready queue
+(Empty)
+Contents of the input queue
+(Empty)
+Contents of the output queue
+(Empty)
+
+
+Status at time 450
+Active is 0
+Iactive is 101
+Oactive is 0
+Contents of the entry queue
+(Empty)
+Contents of the ready queue
+(Empty)
+Contents of the input queue
+(Empty)
+Contents of the output queue
+(Empty)
+
+
+Status at time 475
+Active is 0
+Iactive is 101
+Oactive is 0
+Contents of the entry queue
+(Empty)
+Contents of the ready queue
+(Empty)
+Contents of the input queue
+(Empty)
+Contents of the output queue
+(Empty)
+
+
+Status at time 500
+Active is 0
+Iactive is 101
+Oactive is 0
+Contents of the entry queue
+(Empty)
+Contents of the ready queue
+(Empty)
+Contents of the input queue
+(Empty)
+Contents of the output queue
+(Empty)

@@ -1,0 +1,508 @@
+*** Reader-Writer Problem Simulation ***
+Number of reader threads: 10
+Number of writer threads: 3
+read_count increments to: 1.
+reader 0 is reading ... content : All work and no play makes Jack a dull boy.
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 1 is reading ... content : All work and no play makes Jack a dull boy.
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 2 is reading ... content : All work and no play makes Jack a dull boy.
+read_count increments to: 2.
+read_count increments to: 3.
+reader 4 is reading ... content : All work and no play makes Jack a dull boy.
+reader 3 is reading ... content : All work and no play makes Jack a dull boy.
+read_count decrements to: 2.
+read_count decrements to: 1.
+read_count increments to: 2.
+reader 5 is reading ... content : All work and no play makes Jack a dull boy.
+read_count increments to: 3.
+reader 6 is reading ... content : All work and no play makes Jack a dull boy.
+read_count decrements to: 2.
+read_count decrements to: 1.
+read_count increments to: 2.
+reader 7 is reading ... content : All work and no play makes Jack a dull boy.
+read_count decrements to: 1.
+read_count increments to: 2.
+reader 8 is reading ... content : All work and no play makes Jack a dull boy.
+read_count decrements to: 1.
+read_count increments to: 2.
+reader 9 is reading ... content : All work and no play makes Jack a dull boy.
+read_count decrements to: 1.
+read_count decrements to: 0.
+writer 0 is writing ...
+writer 1 is writing ...
+writer 2 is writing ...
+read_count increments to: 1.
+reader 0 is reading ... content : All work and no play makes Jack a dull b
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 1 is reading ... content : All work and no play makes Jack a dull b
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 2 is reading ... content : All work and no play makes Jack a dull b
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 4 is reading ... content : All work and no play makes Jack a dull b
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 3 is reading ... content : All work and no play makes Jack a dull b
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 5 is reading ... content : All work and no play makes Jack a dull b
+read_count increments to: 2.
+reader 6 is reading ... content : All work and no play makes Jack a dull b
+read_count decrements to: 1.
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 7 is reading ... content : All work and no play makes Jack a dull b
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 9 is reading ... content : All work and no play makes Jack a dull b
+read_count increments to: 2.
+reader 8 is reading ... content : All work and no play makes Jack a dull b
+read_count decrements to: 1.
+read_count decrements to: 0.
+writer 0 is writing ...
+writer 1 is writing ...
+writer 2 is writing ...
+read_count increments to: 1.
+reader 0 is reading ... content : All work and no play makes Jack a dul
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 1 is reading ... content : All work and no play makes Jack a dul
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 2 is reading ... content : All work and no play makes Jack a dul
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 4 is reading ... content : All work and no play makes Jack a dul
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 3 is reading ... content : All work and no play makes Jack a dul
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 5 is reading ... content : All work and no play makes Jack a dul
+read_count increments to: 2.
+reader 6 is reading ... content : All work and no play makes Jack a dul
+read_count increments to: 3.
+reader 7 is reading ... content : All work and no play makes Jack a dul
+read_count decrements to: 2.
+read_count decrements to: 1.
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 9 is reading ... content : All work and no play makes Jack a dul
+read_count decrements to: 0.
+writer 0 is writing ...
+read_count increments to: 1.
+reader 8 is reading ... content : All work and no play makes Jack a du
+read_count decrements to: 0.
+writer 2 is writing ...
+writer 1 is writing ...
+read_count increments to: 1.
+reader 0 is reading ... content : All work and no play makes Jack a 
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 1 is reading ... content : All work and no play makes Jack a 
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 2 is reading ... content : All work and no play makes Jack a 
+read_count increments to: 2.
+reader 4 is reading ... content : All work and no play makes Jack a 
+read_count decrements to: 1.
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 3 is reading ... content : All work and no play makes Jack a 
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 5 is reading ... content : All work and no play makes Jack a 
+read_count increments to: 2.
+reader 6 is reading ... content : All work and no play makes Jack a 
+read_count increments to: 3.
+reader 7 is reading ... content : All work and no play makes Jack a 
+read_count decrements to: 2.
+read_count decrements to: 1.
+read_count increments to: 2.
+reader 9 is reading ... content : All work and no play makes Jack a 
+read_count decrements to: 1.
+read_count decrements to: 0.
+writer 0 is writing ...
+read_count increments to: 1.
+reader 8 is reading ... content : All work and no play makes Jack a
+read_count decrements to: 0.
+writer 1 is writing ...
+writer 2 is writing ...
+read_count increments to: 1.
+reader 0 is reading ... content : All work and no play makes Jack
+read_count increments to: 2.
+reader 1 is reading ... content : All work and no play makes Jack
+read_count decrements to: 1.
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 2 is reading ... content : All work and no play makes Jack
+read_count increments to: 2.
+reader 4 is reading ... content : All work and no play makes Jack
+read_count increments to: 3.
+reader 3 is reading ... content : All work and no play makes Jack
+read_count decrements to: 2.
+read_count decrements to: 1.
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 5 is reading ... content : All work and no play makes Jack
+read_count increments to: 2.
+reader 6 is reading ... content : All work and no play makes Jack
+read_count decrements to: 1.
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 7 is reading ... content : All work and no play makes Jack
+read_count increments to: 2.
+reader 9 is reading ... content : All work and no play makes Jack
+read_count increments to: 3.
+reader 8 is reading ... content : All work and no play makes Jack
+read_count decrements to: 2.
+read_count decrements to: 1.
+read_count decrements to: 0.
+writer 0 is writing ...
+writer 1 is writing ...
+writer 2 is writing ...
+read_count increments to: 1.
+reader 1 is reading ... content : All work and no play makes J
+read_count increments to: 2.
+reader 0 is reading ... content : All work and no play makes J
+read_count decrements to: 1.
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 2 is reading ... content : All work and no play makes J
+read_count increments to: 2.
+reader 3 is reading ... content : All work and no play makes J
+read_count increments to: 3.
+reader 4 is reading ... content : All work and no play makes J
+read_count decrements to: 2.
+read_count decrements to: 1.
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 6 is reading ... content : All work and no play makes J
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 5 is reading ... content : All work and no play makes J
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 7 is reading ... content : All work and no play makes J
+read_count increments to: 2.
+reader 8 is reading ... content : All work and no play makes J
+read_count increments to: 3.
+reader 9 is reading ... content : All work and no play makes J
+read_count decrements to: 2.
+read_count decrements to: 1.
+read_count decrements to: 0.
+writer 0 is writing ...
+writer 1 is writing ...
+writer 2 is writing ...
+read_count increments to: 1.
+reader 0 is reading ... content : All work and no play make
+read_count increments to: 2.
+reader 1 is reading ... content : All work and no play make
+read_count decrements to: 1.
+read_count increments to: 2.
+reader 2 is reading ... content : All work and no play make
+read_count increments to: 3.
+reader 3 is reading ... content : All work and no play make
+read_count decrements to: 2.
+read_count increments to: 3.
+read_count increments to: 4.
+reader 6 is reading ... content : All work and no play make
+read_count decrements to: 3.
+reader 4 is reading ... content : All work and no play make
+read_count increments to: 4.
+reader 5 is reading ... content : All work and no play make
+read_count increments to: 5.
+read_count increments to: 6.
+reader 8 is reading ... content : All work and no play make
+reader 7 is reading ... content : All work and no play make
+read_count decrements to: 5.
+read_count decrements to: 4.
+read_count increments to: 5.
+reader 9 is reading ... content : All work and no play make
+read_count decrements to: 4.
+read_count decrements to: 3.
+read_count decrements to: 2.
+read_count decrements to: 1.
+read_count decrements to: 0.
+writer 2 is writing ...
+writer 0 is writing ...
+writer 1 is writing ...
+read_count increments to: 1.
+reader 0 is reading ... content : All work and no play m
+read_count increments to: 2.
+reader 3 is reading ... content : All work and no play m
+read_count decrements to: 1.
+read_count increments to: 2.
+reader 6 is reading ... content : All work and no play m
+read_count decrements to: 1.
+read_count decrements to: 0.
+read_count increments to: 1.
+read_count increments to: 2.
+reader 1 is reading ... content : All work and no play m
+reader 5 is reading ... content : All work and no play m
+read_count increments to: 3.
+reader 8 is reading ... content : All work and no play m
+read_count increments to: 4.
+reader 7 is reading ... content : All work and no play m
+read_count increments to: 5.
+reader 9 is reading ... content : All work and no play m
+read_count increments to: 6.
+reader 2 is reading ... content : All work and no play m
+read_count decrements to: 5.
+read_count decrements to: 4.
+read_count decrements to: 3.
+read_count decrements to: 2.
+read_count decrements to: 1.
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 4 is reading ... content : All work and no play m
+read_count decrements to: 0.
+writer 0 is writing ...
+writer 1 is writing ...
+writer 2 is writing ...
+read_count increments to: 1.
+reader 0 is reading ... content : All work and no pla
+read_count increments to: 2.
+reader 3 is reading ... content : All work and no pla
+read_count increments to: 3.
+reader 6 is reading ... content : All work and no pla
+read_count decrements to: 2.
+read_count decrements to: 1.
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 2 is reading ... content : All work and no pla
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 1 is reading ... content : All work and no pla
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 5 is reading ... content : All work and no pla
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 7 is reading ... content : All work and no pla
+read_count increments to: 2.
+read_count increments to: 3.
+reader 8 is reading ... content : All work and no pla
+reader 9 is reading ... content : All work and no pla
+read_count decrements to: 2.
+read_count decrements to: 1.
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 4 is reading ... content : All work and no pla
+read_count decrements to: 0.
+writer 0 is writing ...
+writer 2 is writing ...
+writer 1 is writing ...
+read_count increments to: 1.
+read_count increments to: 2.
+reader 0 is reading ... content : All work and no 
+reader 6 is reading ... content : All work and no 
+read_count increments to: 3.
+reader 3 is reading ... content : All work and no 
+read_count decrements to: 2.
+read_count decrements to: 1.
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 2 is reading ... content : All work and no 
+read_count increments to: 2.
+reader 1 is reading ... content : All work and no 
+read_count decrements to: 1.
+read_count increments to: 2.
+reader 5 is reading ... content : All work and no 
+read_count decrements to: 1.
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 7 is reading ... content : All work and no 
+read_count increments to: 2.
+reader 8 is reading ... content : All work and no 
+read_count increments to: 3.
+reader 9 is reading ... content : All work and no 
+read_count decrements to: 2.
+read_count decrements to: 1.
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 4 is reading ... content : All work and no 
+read_count decrements to: 0.
+writer 2 is writing ...
+writer 1 is writing ...
+writer 0 is writing ...
+read_count increments to: 1.
+read_count increments to: 2.
+reader 0 is reading ... content : All work and 
+reader 3 is reading ... content : All work and 
+read_count increments to: 3.
+reader 6 is reading ... content : All work and 
+read_count decrements to: 2.
+read_count decrements to: 1.
+read_count increments to: 2.
+reader 1 is reading ... content : All work and 
+read_count increments to: 3.
+reader 2 is reading ... content : All work and 
+read_count decrements to: 2.
+read_count increments to: 3.
+reader 5 is reading ... content : All work and 
+read_count decrements to: 2.
+read_count decrements to: 1.
+read_count increments to: 2.
+reader 9 is reading ... content : All work and 
+read_count increments to: 3.
+reader 7 is reading ... content : All work and 
+read_count decrements to: 2.
+read_count increments to: 3.
+reader 8 is reading ... content : All work and 
+read_count increments to: 4.
+reader 4 is reading ... content : All work and 
+read_count decrements to: 3.
+read_count decrements to: 2.
+read_count decrements to: 1.
+read_count decrements to: 0.
+writer 2 is writing ...
+writer 1 is writing ...
+writer 0 is writing ...
+read_count increments to: 1.
+reader 3 is reading ... content : All work a
+read_count increments to: 2.
+reader 0 is reading ... content : All work a
+read_count increments to: 3.
+reader 6 is reading ... content : All work a
+read_count decrements to: 2.
+read_count decrements to: 1.
+read_count increments to: 2.
+reader 2 is reading ... content : All work a
+read_count decrements to: 1.
+read_count increments to: 2.
+reader 1 is reading ... content : All work a
+read_count increments to: 3.
+reader 9 is reading ... content : All work a
+read_count increments to: 4.
+reader 4 is reading ... content : All work a
+read_count increments to: 5.
+reader 8 is reading ... content : All work a
+read_count decrements to: 4.
+read_count increments to: 5.
+reader 7 is reading ... content : All work a
+read_count increments to: 6.
+reader 5 is reading ... content : All work a
+read_count decrements to: 5.
+read_count decrements to: 4.
+read_count decrements to: 3.
+read_count decrements to: 2.
+read_count decrements to: 1.
+read_count decrements to: 0.
+writer 2 is writing ...
+writer 1 is writing ...
+writer 0 is writing ...
+read_count increments to: 1.
+reader 0 is reading ... content : All wor
+read_count increments to: 2.
+reader 3 is reading ... content : All wor
+read_count decrements to: 1.
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 2 is reading ... content : All wor
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 8 is reading ... content : All wor
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 1 is reading ... content : All wor
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 9 is reading ... content : All wor
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 4 is reading ... content : All wor
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 7 is reading ... content : All wor
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 5 is reading ... content : All wor
+read_count increments to: 2.
+reader 6 is reading ... content : All wor
+read_count decrements to: 1.
+read_count decrements to: 0.
+writer 2 is writing ...
+writer 1 is writing ...
+writer 0 is writing ...
+read_count increments to: 1.
+reader 0 is reading ... content : All 
+read_count increments to: 2.
+reader 3 is reading ... content : All 
+read_count increments to: 3.
+reader 2 is reading ... content : All 
+read_count decrements to: 2.
+read_count decrements to: 1.
+read_count increments to: 2.
+reader 1 is reading ... content : All 
+read_count increments to: 3.
+reader 8 is reading ... content : All 
+read_count decrements to: 2.
+read_count decrements to: 1.
+read_count increments to: 2.
+reader 9 is reading ... content : All 
+read_count decrements to: 1.
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 4 is reading ... content : All 
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 7 is reading ... content : All 
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 5 is reading ... content : All 
+read_count decrements to: 0.
+writer 2 is writing ...
+read_count increments to: 1.
+reader 6 is reading ... content : All
+read_count decrements to: 0.
+writer 0 is writing ...
+writer 1 is writing ...
+read_count increments to: 1.
+reader 0 is reading ... content : A
+read_count increments to: 2.
+reader 3 is reading ... content : A
+read_count decrements to: 1.
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 2 is reading ... content : A
+read_count increments to: 2.
+reader 1 is reading ... content : A
+read_count increments to: 3.
+reader 8 is reading ... content : A
+read_count decrements to: 2.
+read_count increments to: 3.
+reader 9 is reading ... content : A
+read_count decrements to: 2.
+read_count decrements to: 1.
+read_count increments to: 2.
+reader 4 is reading ... content : A
+read_count decrements to: 1.
+read_count increments to: 2.
+reader 7 is reading ... content : A
+read_count decrements to: 1.
+read_count decrements to: 0.
+read_count increments to: 1.
+reader 5 is reading ... content : A
+read_count decrements to: 0.
+writer 2 is writing ...
+reader 6 is exiting ...
+writer 0 is exiting ...
+writer 1 is exiting ...
+reader 3 is exiting ...
+reader 0 is exiting ...
+reader 2 is exiting ...
+reader 1 is exiting ...
+reader 8 is exiting ...
+reader 9 is exiting ...
+reader 4 is exiting ...
+reader 7 is exiting ...
+reader 5 is exiting ...
+writer 2 is exiting ...
+All threads are done. 
+Resources cleaned up. 
